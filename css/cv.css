@@ -1,0 +1,8 @@
+body{
+    font : normal normal normal 16pt/17.6pt Arial, sans-serif;
+} 
+
+p{
+    color: blue;
+}
+/* the last style wins! -in regards to two different styles for the same tag. Styles are overriden on a style by style basis */
