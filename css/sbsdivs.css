@@ -1,0 +1,11 @@
+div {
+    border: 1px solid maroon;
+    display: inline-block;
+    width: 49%;
+    min-height: 200px;
+    text-align: justify;
+}
+
+p,h3{
+    text-align: center;
+}
